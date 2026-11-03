@@ -2,7 +2,7 @@
 
 **'Desenvolvedor Full-Stack em formação'**
 
-Me chamo Fillipe Curty Mangifeste, tenho 26 anos e sou natural do Espírito Santo. Atualmente, estou cursando Desenvolvimento Full-Stack pela DevClub. Sou apaixonado por tecnologia.
+Me chamo Fillipe Curty Mangifeste, tenho 26 anos e sou natural do Espírito Santo. Atualmente, estou cursando Desenvolvimento Full-Stack pela DevClub.
 
 <p align="left">
     <a href="https://github.com/fillipemangifestedev?tab=followers">
